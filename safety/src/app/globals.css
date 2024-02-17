@@ -1,0 +1,17 @@
+:root{
+  --bg: #1e1e1e;
+  --bgSoft: #2e2e2e;
+  --text: white;
+  --textSoft: #d3d3d3;
+  --btn : #4e4e4e;
+}
+
+
+body{
+    background-color: var(--bg);
+    color: var(--text);
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
