@@ -1,17 +1,32 @@
 :root{
-  --bg: #1e1e1e;
-  --bgSoft: #2e2e2e;
-  --text: white;
-  --textSoft: #d3d3d3;
+  --bg: white;
+  --textb: black;
+  --textlink: #021a34;
   --btn : #4e4e4e;
 }
-
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
 body{
     background-color: var(--bg);
-    color: var(--text);
+    color: var(--textb);
 }
 a{
-  color: inherit;
+  color: var(--textlink);
   text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  font: oblique
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--bg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
 }
