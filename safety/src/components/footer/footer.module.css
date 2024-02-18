@@ -1,0 +1,12 @@
+.container{
+    background:  #010617; 
+    min-height: 10vh;
+    width: 100%;  
+    background-size: cover;
+    text-align: center;
+}
+.container img{
+    width: 150px;
+    margin-left: 50px;
+    height: 30px;
+}

@@ -1,0 +1,23 @@
+.first{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 500px;
+    width: auto;
+    background-color: rgb(17, 27, 78);
+}
+.sideBar {
+   background-color: rgb(17, 27, 78);
+    height: 400px;
+  }
+  
+.mainContent {
+   background-color: thistle;
+    height: 400px;
+  }
+  .blank{
+    background-color:  #010617;
+    width: auto;
+    height: 50px;
+    color: #010617;
+
+}

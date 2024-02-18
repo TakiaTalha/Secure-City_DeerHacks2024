@@ -1,0 +1,199 @@
+.root{
+    --b: #010617;
+    --textb: rgb(250, 248, 248);
+    --textlink: #021a34;
+    --btn : #4e4e4e;
+  }
+
+.first{
+    background-color: #010617;
+    width: auto;
+    height: auto;
+}
+.second{
+    background-color: #010617;
+    width: auto;
+    height: auto;
+}
+.third{
+    background-color:  #010617;
+    width: auto;
+    height: auto;
+}
+.blank{
+    background-color:  #010617;
+    width: auto;
+    height: 50px;
+    color: #010617;
+
+}
+.fourth{
+    background-color: #010617;
+    width: auto;
+    height: 200px;
+}
+.image_container{
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+.img{
+    border-radius: 30px;
+}
+.textOverlay {
+    position: absolute; 
+    top: 70%; 
+    left: 30%; 
+    transform: translate(-50%, -50%); 
+    color: white;
+    font-size: 40px; 
+    font-weight: bolder;
+    
+}
+.title1{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.block_container{
+    height: 200px;
+    width: 95%;
+    margin-left: 25px;
+    background-color: #09173f;
+    border-radius: 15px;
+}
+.row_second{
+    display: flex; /* This makes the children divs line up horizontally */
+    align-items: center; /* This will vertically align the children in the middle if they are of different heights */
+    justify-content: space-between; 
+    border-color: #9ba3bd;
+    border-width: 5px;
+}
+.text2{
+    padding-left: 100px; /* Add some padding on the left */
+    padding-bottom: 100px; /* Add some padding at the bottom */
+    color: rgb(252, 248, 248);
+    font-size: 30px;
+    flex-grow: 1;
+}
+.card_container{
+    height : 300px;
+    position: relative;
+    flex-grow: 1;
+}
+
+.card1, .card2, .card3 {
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    border-radius: 20px;
+}
+.card1 {
+    position: absolute;
+    align-items: center; /* Center-aligns items horizontally within the container */
+    justify-content: center;
+    text-align: center; 
+    margin-top: 10px;
+    top: 20px;
+    left: 20px;
+    background-color: #fdfeff;
+    z-index: 3;
+}
+.card1_text{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.card1 img{
+    margin-right: 150px;
+}
+
+.card2 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    background-color: #1d3568;
+    z-index: 2;
+}
+
+.card3 {
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    background-color: #101b6c;
+    z-index: 1;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 29px;
+    width: 95%;
+}
+.col{
+    flex-basis: 27%;
+    background: linear-gradient(to bottom, #1c2543, #1a275e, #1c2543);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 20px 12px;
+    height: 200px;
+    color: white;
+    border : 2px solid #769bc9;
+}
+.colname{
+    margin-bottom: 15px;
+
+}
+.city_container{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+    margin-left: 30px;
+    width: 90%;
+    position: relative;
+}
+.circle{
+  width: 150px; /* match the width of the Image component */
+  height: 150px; /* match the height of the Image component */
+  border-radius: 50%; /* creates the circle */
+  overflow: hidden; /* ensures the image doesn't overflow the circular shape */
+  display: inline-block; 
+   position: relative;
+}
+.circle img{
+    display: block; /* Remove default inline spacing */
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    transition: opacity 0.3s ease;
+}
+  
+  .circle:hover img {
+    transform: scale(1.1); /* Optional: zoom effect on hover */
+    opacity: 1%;
+  }
+  
+  .cityn_container{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+    margin-left: 70px;
+    width: 90%;
+    position: relative;
+
+}
+.city_name {
+    color: white;
+    width: 150px; /* match the width of the Image component */
+    height: 150px; 
+    display: inline-block; 
+     position: relative;
+    font-weight: bolder;
+    padding-top: 30px;
+
+  }
+    

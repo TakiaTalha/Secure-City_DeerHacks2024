@@ -1,5 +1,5 @@
 .container{
-   background-color: rgb(176, 173, 173);
+   background:  linear-gradient(to bottom right, rgb(2, 26, 61), rgb(12, 33, 65));
     display: flex;
     height: 80px;
     padding:  20px;
@@ -12,24 +12,29 @@
    font-size: 20px;
    font-weight: bold;
    padding-left: 50px;
+   color: black;
  }
 .links{
    display: flex;
    justify-content: space-between;
    height: 40px;
-   width: 40%;
+   width: auto;
    display: flex;
    align-items: center;
    justify-content: center;
    gap : 20px;
  }
- .login{
-   background-color: #5e5d5d;
-   border-radius: 5px;
-   color: rgb(0, 0, 0);
-   height: 40px;
-   width: 100px;
-   display: flex;
-   align-items: center;
-   justify-content: center;
+ .links a{
+   color: white;
+   text-decoration: none;
+   font-size: 20px;
+   font-weight: bold;
+ }
+ .links a:hover {
+   color: #555555; /* Color when the mouse hovers over the link */
+ }
+ 
+ /* Active state for links */
+ .links a:active {
+   color: #000000; /* Color when the link is being clicked */
  }

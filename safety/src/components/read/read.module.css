@@ -1,0 +1,37 @@
+/* Read.module.css */
+.caseContainer {
+    max-height: 500px; /* Set a maximum height for the container */
+    overflow-y: auto; /* Add scroll bar if content overflows */
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Spacing between case boxes */
+    background-color: rgb(26, 26, 82);
+
+  }
+  
+  .caseBox {
+    background-color: #030326; /* Light grey background for each case */
+    /* border: 1px solid #ddd; Border for the box */
+    padding-left: 16px;
+    border-radius: 8px; /* Rounded corners for the box */
+    border-color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Simple box shadow for styling */
+    width: 100%;
+  }
+  
+  .caseTitle {
+    color: #e06868; /* Dark text color for the case title */
+    margin-bottom: 8px; /* Space below the title */
+    font-weight: bolder;
+  }
+  
+  .caseLocation{
+    color: #d1c5c5; /* Lighter text color for details */
+    margin-bottom: 4px;
+    font-weight: bolder;
+  }
+  .caseEvent {
+    color: #9f9797; /* Lighter text color for details */
+    margin-bottom: 4px; /* Space below each detail */
+  }
+  
