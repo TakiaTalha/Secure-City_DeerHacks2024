@@ -1,0 +1,347 @@
+{
+    "Case 3": {
+        "Property Crimes": "Theft",
+        "Event": "Two Men Sought in a Robbery Investigation",
+        "Location": "Steeles Avenue East and Don Mills Road Area"
+    },
+    "Case 4": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested in Threatening Investigation",
+        "Location": "University Avenue and Gerrard Street West area"
+    },
+    "Case 6": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Suspected Hate-Motivated Threatening Investigation",
+        "Location": "Bathurst Street and Wilson Avenue area"
+    },
+    "Case 9": {
+        "Violent Crimes": "Assault with Weapons",
+        "Event": "Suspect to be Identified in a Stabbing Investigation",
+        "Location": "Wilson Subway Station"
+    },
+    "Case 11": {
+        "Violent Crimes": "Homicide",
+        "Event": "Suspect to be identified in an Attempt Murder Investigation",
+        "Location": "Bloor Street West and Margueretta Street"
+    },
+    "Case 14": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Wanted in Assault Investigation",
+        "Location": "Bathurst Street and Fort York Boulevard"
+    },
+    "Case 16": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #10/2024",
+        "location": "Bellamy Road North and Cedar Brae Boulevard"
+    },
+    "Case 17": {
+        "Violent Crimes": "Homicide",
+        "Event": "Homicide #6/2024",
+        "Location": "Weston Road and Lawrence Ave West"
+    },
+    "Case 18": {
+        "Violent Crimes": "Assault",
+        "Event": "Suspect Sought in Assault with a Weapon Investigation",
+        "Location": "Oak Park Avenue and Wallington Avenue area"
+    },
+    "Case 20": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Identified in Assault with a Weapon Investigation",
+        "Location": "Pape Subway Station"
+    },
+    "Case 22": {
+        "Property Crimes": "Theft",
+        "Event": "Youth Arrested in three Carjacking Investigations",
+        "Location": "Finch Avenue East and Midland Avenue and"
+    },
+    "Case 23": {
+        "Violent Crimes": "Sexual Assault/Abuse",
+        "Event": "Sexual Assault Alert",
+        "Location": "Yonge Street and Eglinton Avenue West area"
+    },
+    "Case 26": {
+        "Violent Crimes": "Homicide",
+        "Event": "Homicide #5/2024",
+        "Location": "Lake Shore Boulevard West and Lower Spadina Avenue area"
+    },
+    "Case 27": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Fatal Collision #5/2024",
+        "location": "Morningside Avenue and Milner Avenue area"
+    },
+    "Case 28": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Wanted in Assault with a Weapon Investigation",
+        "Location": "Pape Subway Station"
+    },
+    "Case 30": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Assaulting a Toronto Parking Enforcement Officer",
+        "Location": "Grand Trunk Crescent and Bremner Boulevard"
+    },
+    "Case 31": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Wanted in Assault Causing Bodily Harm and Forcible Confinement Investigation",
+        "Location": "Eglinton Avenue West and Kipling Avenue area"
+    },
+    "Case 32": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested in Assault Investigation",
+        "Location": "Bloor Street West and Indian Grove area"
+    },
+    "Case 34": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Suspected Hate-Motivated Robbery Investigation",
+        "Location": "Danforth Avenue and Warden Avenue area"
+    },
+    "Case 35": {
+        "Violent Crimes": "Homicide",
+        "Event": "Homicide #4/2024",
+        "Location": "Lansdowne Avenue And Bloor Street West area"
+    },
+    "Case 36": {
+        "Violent Crimes": "Homicide",
+        "Event": "Homicide #32/2023",
+        "Location": "Queen Street East and Carlaw Avenue area"
+    },
+    "Case 38": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Suspect Sought in Break and Enter Investigation",
+        "Location": "Queen Street East and Neville Park Boulevard area"
+    },
+    "Case 39": {
+        "Property Crimes": "Theft",
+        "Event": "Man arrested in a Carjacking Investigation",
+        "Location": "Steeles Avenue and Markham Road"
+    },
+    "Case 40": {
+        "Property Crimes": "Theft",
+        "Event": "Man Arrested in Carjacking Investigation",
+        "Location": "Mount Pleasant Road and Manor Road area"
+    },
+    "Case 41": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested in Assault Investigation",
+        "Location": "Yonge Street and Cranbrooke Avenue area"
+    },
+    "Case 42": {
+        "Property Crimes": "Theft",
+        "Event": "Four Men Arrested in Eight Separate Retail Robberies",
+        "Location": "Toronto Area"
+    },
+    "Case 43": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #8/2024",
+        "location": "Martin grove Road and Westhumber Boulevard area"
+    },
+    "Case 44": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #7/2024",
+        "location": "Pharmacy Avenue and Janet Boulevard area"
+    },
+    "Case 45": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #4/2024",
+        "location": "McNicoll Avenue and Brimley Road"
+    },
+    "Case 46": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #6/2024",
+        "location": "Finch Avenue East and Willowdale Avenue area"
+    },
+    "Case 48": {
+        "Violent Crimes": "Assault with Weapons",
+        "Event": "Man Arrested in Stabbing Investigation",
+        "Location": "Don Valley Drive and Hillside Drive area"
+    },
+    "Case 50": {
+        "Violent Crimes": "Assault",
+        "Event": "Woman Arrested for Assaulting a Toronto Police Parking Enforcement Officer",
+        "Location": "Yonge Street and Park Home Avenue area"
+    },
+    "Case 51": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Assaulting a Toronto Police Parking Enforcement Officer",
+        "Location": "Bloor Street West and Balmuto Street area"
+    },
+    "Case 52": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Assaulting a Toronto Police Parking Enforcement Officer",
+        "Location": "Soudan Avenue and Dunfield Avenue area"
+    },
+    "Case 53": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Fatal Collision #2/2024",
+        "location": "Jane Street and Clair Road area"
+    },
+    "Case 54": {
+        "Property Crimes": "Theft",
+        "Event": "Two Youths Arrested in Theft of Vehicle and Abduction Investigation",
+        "Location": "Weston Road and Lawrence Avenue West area"
+    },
+    "Case 55": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Male Suspects wanted in a Break and Enter Investigation",
+        "Location": "Lakeshore Boulevard West and Rees Street area"
+    },
+    "Case 56": {
+        "Violent Crimes": "Homicide",
+        "Event": "Man Arrested in Homicide Investigation 53/2023",
+        "Location": "Yonge Street and Hendon Avenue area"
+    },
+    "Case 57": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Man Sought in Suspected Hate-Motivated Threatening Investigation",
+        "Location": "Bathurst Street and Wilson Avenue area"
+    },
+    "Case 59": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Sought in an Assault with a Weapon investigation",
+        "Location": "University Avenue and King Street West area"
+    },
+    "Case 60": {
+        "Property Crimes": "Theft",
+        "Event": "Four Suspects Wanted in Retail Robbery Investigation",
+        "Location": "Dufferin Street and Yorkdale Road area"
+    },
+    "Case 61": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Man Arrested in Home Invasion Investigation",
+        "Location": "Twyford Road and Abilene Drive area"
+    },
+    "Case 62": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Aggravated Assault and Assault with a Weapon",
+        "Location": "Yonge Street and Dundas Street West area"
+    },
+    "Case 64": {
+        "Violent Crimes": "Assault",
+        "Event": "Man wanted in Aggravated Assault and Assault with a Weapon investigation",
+        "Location": "College Street and Ossington Avenue area"
+    },
+    "Case 65": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Four Suspects Sought in Attempted Break and Enter Investigation",
+        "Location": "Queen Street East and Victoria Park Avenue area"
+    },
+    "Case 66": {
+        "Property Crimes": "Theft",
+        "Event": "Man Arrested in Home Invasion Robbery Investigation",
+        "Location": "Kipling Avenue & Evans Avenue area"
+    },
+    "Case 68": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Wanted For Aggravated Assault and Assault with a Weapon",
+        "Location": "Yonge Street and Dundas Street West area"
+    },
+    "Case 69": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Four Suspects Sought in Attempted Break and Enter Investigation",
+        "Location": "Queen Street East and Victoria Park Avenue area"
+    },
+    "Case 71": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Wanted For Aggravated Assault",
+        "Location": "Queen Street East and Pape Avenue area"
+    },
+    "Case 72": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #5/2024",
+        "location": "Pedestrian Struck"
+    },
+    "Case 74": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #4/2024",
+        "location": "McNicoll Avenue and Brimley Road"
+    },
+    "Case 75": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Suspected Hate-Motivated Assault Investigation",
+        "Location": "St Clair Avenue East and O\u2019Connor Drive area"
+    },
+    "Case 76": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Suspected Hate-Motivated Mischief Investigation",
+        "Location": "Vaughan Road and Eglinton Avenue West area"
+    },
+    "Case 79": {
+        "Property Crimes": "Theft",
+        "Event": "Woman and Man wanted in Robbery Investigation",
+        "Location": "Chester Subway Station"
+    },
+    "Case 80": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Personal Injury Collision #3/2024",
+        "location": "Eglinton Avenue West and Scarlett Road"
+    },
+    "Case 82": {
+        "Violent Crimes": "Assault",
+        "Event": "Man arrested and four men sought in Aggravated Assault investigation",
+        "Location": "Queen Street West and Denison Avenue area"
+    },
+    "Case 83": {
+        "Violent Crimes": "Assault",
+        "Event": "Suspect Sought in Assault Investigation",
+        "Location": "Gerrard Street East and O'Keefe Lane area"
+    },
+    "Case 84": {
+        "Violent Crimes": "Homicide",
+        "Event": "Homicide #55/2023",
+        "Location": "Morningside Avenue and Danzig Street area"
+    },
+    "Case 85": {
+        "Violent Crimes": "Hate Crime",
+        "Event": "Man Wanted in Suspected Hate-Motivated Robbery Investigation",
+        "Location": "Bloor Street West and Lansdowne Avenue area"
+    },
+    "Case 86": {
+        "Property Crimes": "Theft",
+        "Event": "Suspect for Identification in Robbery Investigation",
+        "Location": "Bathurst Street and Steeles Avenue West area,"
+    },
+    "Case 87": {
+        "Property Crimes": "Theft",
+        "Event": "Man Arrested in Robbery Investigation",
+        "Location": "Kennedy Road and Sheppard Avenue East area"
+    },
+    "Case 88": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Man Arrested for Damaging Vehicles",
+        "Location": "Jane Street and Wilson Avenue area"
+    },
+    "Case 89": {
+        "Violent Crimes": "Assault",
+        "Event": "Male Youth arrested in Aggravated Assault Investigation",
+        "Location": "Finch Avenue West and Bathurst Street area"
+    },
+    "Case 90": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested in Assault with a Weapon Investigation",
+        "Location": "Front Street West and Bay Street"
+    },
+    "Case 92": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Threatening a Toronto Police Parking Enforcement Officer",
+        "Location": "Jane Street and Bloor Street West Area"
+    },
+    "Case 93": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Assaulting a Toronto Police Parking Enforcement Officer",
+        "Location": "Bleecker Street and Wellesley Street East Area"
+    },
+    "Case 94": {
+        "Violent Crimes": "Assault",
+        "Event": "Man Arrested for Assaulting a Toronto Police Parking Enforcement Officer",
+        "Location": "Flemington Road and Ranee Avenue"
+    },
+    "Case 95": {
+        "Property Crimes": "Break and Enter",
+        "Event": "Suspects Wanted in a Break and Enter Investigation",
+        "Location": "Bay Street and Wellesley Street West area"
+    },
+    "Case 97": {
+        "Public Order Crimes": "Collision/Vehicle Incident",
+        "Event": "Fatal #1/2024",
+        "location": "Lake Shore Boulevard East and Cherry Street"
+    }
+}
