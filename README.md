@@ -1,1 +1,2 @@
-# DeerHacks-2024-Safety-App
+# Secure City 
+The inspiration of our project came to us when we were doing research for project ideas. We realized that in urbanized metropolitan cities, crime rates are generally higher, especially in break and enters, assault and hate-crime. We wanted to make an application/website that would help users living in these cities view officially reported crimes in their local area over the past months in the age where rarely anyone watches the news. We also wanted to make the application/website alert users whenever a new crime report occurs in their area, so that they could be warned beforehand and stay safe
